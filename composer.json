@@ -1,0 +1,17 @@
+{
+    "name": "cloud/tcecloud",
+    "description": "tcecloud",
+    "type": "library",
+    "authors": [
+        {
+            "name": "FengZhiXiang",
+            "email": "man.inthewind@mail.163.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Cloud\\TceCloud\\": "src/"
+        }
+    }
+}
